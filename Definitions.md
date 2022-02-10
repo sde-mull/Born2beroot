@@ -20,3 +20,17 @@
 -> A hypervisor is a software that creates and runs virtual machines, which are software emulations of a computing hardware environment. Sometimes called a virtual machine monitor(VMM), the hypervisor isolates the operating system and computing resources from the virtual machines and enables the creation and management of those VMs. These virtual machines - simply, code operating in a server's memory space - enable administrators to have a dedicated machine for every service they need to run.
 
 -> This small software layer is the most important component of virtualization technology, which comprises storage, desktop, operating system and application virtualization. Hypervisors also make server virtualization possible by allowing different operating systems to run seperate applications on a single server while still using the same physical hardware resources. Virtualization is the basis of modern cloud computing, enabling scalability, security and management of global IT infrastructure.
+
+## What is Debian?
+
+-> Debian is considered to be the oldest linux-based distribution as it was launched in 1993. It is an open-source operating system created by individuals with common interests to develop this free OS.
+
+-> Debian ensures *security and stability*
+
+## Diference between CentOS and Debian
+
+-> CentOS vs Debian are two flavors of linux operating systems. CentOS is a linux distribution. It is free and open source. It is enterprise-claass-industries can use meaning for server building.
+
+-> Debian is a Unix like computer operating system that is made up of open source components. It is built and supported by a group of individuals who are under the Debian project. Debian uses linux as its Kernel.
+
+-> Debian has more up to date packages and because it is easier to upgrade to a newer version. 
