@@ -68,7 +68,29 @@
 
 ## Features of CentOS
 
-  1. It comes with many security
+  1. It comes with many security in-built features that help protect from cyber-attacks using SELinux. It helps to reduce vulnerabilities of privilege escalation attacks.
+  2. Many organizatons prefer it due to it extended support cycle.
+  3. It uses the Yellowdog Update package manager that keeps your system up-to-date. This feature ensures that you can easily add or remove features from your application irrespective of your application phase.
+  4. CentOS comes with a great and simple document that allows you to install and configure CentOS on your system efficiently.
+  5. It can support multiple management platforms like cPanel, WebMin, Docker, etc.
+
+## Advantages of CentOS
+
+  1. CentOS is a complete workhouse with a stable distribution.
+  2. You can ensure easy updates of the system and security with YUM.
+  3. It allows you to install multiple PHP versions that are available for different users.
+  4. As it has Red Hat backup, most of Red Hat's instructions work the same for CentOS, like a package manager.
+  5. It comes with built-in management tools for containers.
+  6. CentOS comes with RPM package compability that allows easy machine setup for development.
+  7. It has a customized command line that ensures easy automation of new instance deployments.
+  8. It has Docker compability.
+  9. It can even provide high performance on the average hardware.
+  10. It ensures easy and quick deployments.
+
+## Disadvantages of CentOS
+
+  1. 
+
 ## Diference between CentOS and Debian
 
 -> CentOS vs Debian are two flavors of linux operating systems. CentOS is a linux distribution. It is free and open source. It is enterprise-claass-industries can use meaning for server building.
