@@ -25,7 +25,44 @@
 
 -> Debian is considered to be the oldest linux-based distribution as it was launched in 1993. It is an open-source operating system created by individuals with common interests to develop this free OS.
 
--> Debian ensures *security and stability*
+-> Debian ensures **security and stability** to your system. Debian uses two types of kernels - Linux kernel and FreeBSD kernel. Debian is a commonly used OS for personal and network servers and is a base for other Linux distributions.
+
+## Features of Debian
+
+  1. Debian server comes with a wide range of installers as compared to other distributions.
+  2. Its community meber still maintain Debian.
+  3. It comes with an easy installation package.
+  4. With Debian, you can use any software available for distribution.
+  5. Debian supports multiple hardware architectures.
+  6. Debian can be easily transitioned between new and old technologies.
+  7. Debian comes with well-integrated packages.
+  8. It adapts easily during an upgrade to the new release.
+  9. Debian is by far the most secure and stable linux distribution available to date. It has a bug tracking system to resolve issues.
+
+## Advantages of Debian
+
+  1. As Debian is the oldest version, it has a much mature community.
+  2. Debian's tested version is as stable as other distributions, and even Debian's stable distribution is rock-solid stable.
+  3. Debian offers the largest repository for the software as compared to any other distribution.
+  4. Debian's tools intend to do recursive system upgrades.
+  5. The Debian package will notify you to install another package if required for working.
+  6. The system works on a policy that allows it to maintain the distribution in a distributed manner.
+  7. Debian has a stable branch that tests packages before release.
+  8. It is known for being consistent and maintains a highly secure system.
+  9. It supports almost every available Kernel maintained CPU instructions set.
+  10. The installation is minimal, thus making it easier for server resources and their security.
+
+## Disadvantages of Debian
+
+  1. New software needs to be upgraded to get a stable repository. Still, sometimes it is difficulty to get the latest features and software updates as fast as it is available for other distributions.
+  2. If you are an experienced person to work at the terminal end, then interacting with the system is easy. It gets a bit challenging for new users to get them working for the first time and is less user-friendly.
+  3. It does not have an enterprise version like other distributions that offers you to work with large companies and their projects.
+  4. Debian offers you an extended support cycle that even your hardware will probably get recycled before its support cycle ends.
+  5. Though Debian works well with VMs, it still faces unexpected issues like sudden reboot, and server clock stuck, etc.
+
+## What is CentOS?
+
+  1. CentOs was released in 2004 and has been an open-source software. It is an enterprise-class Linux
 
 ## Diference between CentOS and Debian
 
