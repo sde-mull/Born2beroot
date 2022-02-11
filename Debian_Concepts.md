@@ -62,8 +62,13 @@
 
 ## What is CentOS?
 
-  1. CentOs was released in 2004 and has been an open-source software. It is an enterprise-class Linux
+  -> CentOs was released in 2004 and has been an open-source software. It is an enterprise-class Linux distribution supported by the red hat community. It is considered to be the replica of red hat enterprise Linux (RHEL) and is commonly used in IT world on a large scale.
+  -> Being similar to RHEL, it allows you to develop in a more dominant and the best Linux distribution. CentOS is the **most popular** distribution when it comes to server environments.
+  -> Due to RHEL support, CentOs ensures enterprise-level security, thus making it safe for users. It is highly customizable and stable.
 
+## Features of CentOS
+
+  1. It comes with many security
 ## Diference between CentOS and Debian
 
 -> CentOS vs Debian are two flavors of linux operating systems. CentOS is a linux distribution. It is free and open source. It is enterprise-claass-industries can use meaning for server building.
