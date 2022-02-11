@@ -89,7 +89,12 @@
 
 ## Disadvantages of CentOS
 
-  1. 
+  1. It may not work well for a desktop (GUI) Linux distribution.
+  2. While working, it may get complicated due to the C/C++ library's dependency issues.
+  3. It is a cumbersome job to install and uninstall the packages in RHEL.
+  4. It has a weak user interface.
+  5. It comes with a small user base as compared to other distributions.
+  6. You may face issues while configuring network interfaces.
 
 ## Diference between CentOS and Debian
 
