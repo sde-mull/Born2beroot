@@ -1,4 +1,4 @@
-# Concepts
+# Virtual Machine
 
 ## How a virtual machine works?
 
@@ -20,6 +20,8 @@
 -> A hypervisor is a software that creates and runs virtual machines, which are software emulations of a computing hardware environment. Sometimes called a virtual machine monitor(VMM), the hypervisor isolates the operating system and computing resources from the virtual machines and enables the creation and management of those VMs. These virtual machines - simply, code operating in a server's memory space - enable administrators to have a dedicated machine for every service they need to run.
 
 -> This small software layer is the most important component of virtualization technology, which comprises storage, desktop, operating system and application virtualization. Hypervisors also make server virtualization possible by allowing different operating systems to run seperate applications on a single server while still using the same physical hardware resources. Virtualization is the basis of modern cloud computing, enabling scalability, security and management of global IT infrastructure.
+
+# Debian
 
 ## What is Debian?
 
@@ -59,6 +61,8 @@
   3. It does not have an enterprise version like other distributions that offers you to work with large companies and their projects.
   4. Debian offers you an extended support cycle that even your hardware will probably get recycled before its support cycle ends.
   5. Though Debian works well with VMs, it still faces unexpected issues like sudden reboot, and server clock stuck, etc.
+
+# CentOS
 
 ## What is CentOS?
 
