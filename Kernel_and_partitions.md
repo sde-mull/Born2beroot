@@ -44,3 +44,9 @@ For example, most Unix Kernels are monolithic. Each Kernel layer integrates into
 # Primary Partition vs Logical partition
 
 -> A hard disk drive can be divided in to several storage units. These storage units are called partitions. Creating partitions would make a single physical disk drive appear as multiple disks. Software that can be used to create, delete and modify partitions is called a partition editor. Creating partitions would allow the user filles to be resided separately from the operating system and other program files. Furthermore, partitions would allow the user to have multiple operating systems to be installed in different partitions of the same hard disk. Initially, a hard disk drive could be divided in to two partitions called the primary partition and extended partition. The extended partition could be further divided in to multiple logical drives. Information about the partitions in a computer is included in the partition table, which is located in the Master Boot Record (MBR).
+
+![imagem](https://user-images.githubusercontent.com/78042197/153778635-b54f68a2-128a-4262-976f-80d30ff4e17b.png)
+
+## What is Primary Partition?
+
+-> 
