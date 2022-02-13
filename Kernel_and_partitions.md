@@ -40,3 +40,7 @@ These two modes provide some critical and complicated operations. For example, *
 There are so many Kernel types, such as the **monolithic Kernel, microkernel, exokernel, hybrid Kernel, and nano Kernel.** The main difference between the monolithic kernel and microkernel is related to the system calls and their Kernel spaces.
 
 For example, most Unix Kernels are monolithic. Each Kernel layer integrates into the entire Kernel program and runs in Kernel mode. On the other hand, microkernel operating systems only require a small number of kernel functions such as an IpC mechanism and, a basic scheduler.
+
+# Primary Partition vs Logical partition
+
+-> A hard disk drive can be divided in to several storage units. These storage units are called partitions. Creating partitions would make a single physical disk drive appear as multiple disks. Software that can be used to create, delete and modify partitions is called a partition editor. Creating partitions would allow the user filles to be resided separately from the operating system and other program files. Furthermore, partitions would allow the user to have multiple operating systems to be installed in different partitions of the same hard disk. Initially, a hard disk drive could be divided in to two partitions called the primary partition and extended partition. The extended partition could be further divided in to multiple logical drives. Information about the partitions in a computer is included in the partition table, which is located in the Master Boot Record (MBR).
