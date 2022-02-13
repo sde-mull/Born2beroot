@@ -20,3 +20,23 @@
 If the developers implement the Kernel appropriately, it is out of sight of the user. **It operates in its own area called the Kernel space.** It allocates memory and monitors where everything is stored in the Kernel space.
 
 **The user space** is the environment where the user sees files and web browsers. These programs communicate with the Kernel using a system call interface.
+
+## Where is the Kernel?
+
+-> If we try to vizualize where the Kernel fits in a machine, we can think of the machine as having three layers:
+
+![imagem](https://user-images.githubusercontent.com/78042197/153772972-2acc086d-0d5d-496b-813b-7cc0fff3a8ee.png)
+
+**User Processes:** User processes actually create the userspace. However, these processes are the applications that the Kernel controls. The Kernel also enables these processes to communicate with each other. It uses inter-process communication (IPC) mechanisms to enable communication between processes.
+
+**Kernel:** As we can see, it's right in the middle of the layers. **It's the core of the OS.**
+
+**Hardware:** It's the physical machine, the base of the system. It consists of memory, the processor or the central processing unit (CPU), and input/output(I/O) components such as graphics, storage, and networking. The CPU executes computations, reads and writes memory.
+
+**There are two modes for the code executed by the system on a CPU: Kernel mode and user mode.** While the code is running in Kernel mode, it has unlimited access to the hardware. However, if the code is running in user mode, it has limited access to the CPU and the memory.
+
+These two modes provide some critical and complicated operations. For example, **it helps privilege separation for security.** Actually, this means that if a process fails in user mode, Kernel mode minimizes the error, and it can recover the process.
+
+There are so many Kernel types, such as the **monolithic Kernel, microkernel, exokernel, hybrid Kernel, and nano Kernel.** The main difference between the monolithic kernel and microkernel is related to the system calls and their Kernel spaces.
+
+For example, most Unix Kernels are monolithic. Each Kernel layer integrates into the entire Kernel program and runs in Kernel mode. On the other hand, microkernel operating systems only require a small number of kernel functions such as an IpC mechanism and, a basic scheduler.
