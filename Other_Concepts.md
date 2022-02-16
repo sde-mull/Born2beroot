@@ -2,4 +2,4 @@
 
 # Difference between Apt nad Aptitude
 
-[Read more](https://www.tecmint.com/difference-between-apt-and-aptitude/)
+[Definitions and differences](https://www.tecmint.com/difference-between-apt-and-aptitude/)
