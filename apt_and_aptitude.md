@@ -1,2 +1,0 @@
-
-Aptitude and apt-get are two of the popular tools which handle package management. Both are capable of handling all kinds of activities on packages including installation, removal, search etc. But still there are differences between both the tools which make users prefer one over the other. What are those differences that make these two tools to be considered separately is the scope of this article.
